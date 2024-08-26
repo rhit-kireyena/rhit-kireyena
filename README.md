@@ -22,8 +22,9 @@ const nick = {
  currently learning: "Web-Scraping"
 }
 ```
-<img src="https://media.giphy.com/media/SvGVJ6CesBIW4UyE6z/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi, <b> I'll be happy to meet you!</b> :)</em>
+<br>
+<div style="text-align:center;">
+  <img src="https://media.giphy.com/media/SvGVJ6CesBIW4UyE6z/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say hi, <b> I'll be happy to meet you!</b> :)</em>
+</div>
+
 ---
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNjMmpwcXIzMXgzc3R4ZmlkM3JvMmNmZTg5eDVvYmxoZmszczg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iVGW9MVmFf9L75WbD/giphy-downsized-large.gif" width="500">
-
-
