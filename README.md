@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: Nicolas Kireyev](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-kireyev/)](https://www.linkedin.com/in/nicolas-kireyev/)
-[![GitHub rhit-kireyena](https://img.shields.io/github/followers/rhit-kireyena?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub rhit-kireyena](https://img.shields.io/github/followers/rhit-kireyena?label=follow&style=social)](https://github.com/rhit-kireyena)
 
 
 ### <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="50"> A little more about me...  
