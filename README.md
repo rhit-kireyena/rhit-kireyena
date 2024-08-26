@@ -3,7 +3,7 @@
 <p><em>Computer Science Major at <a href="https://www.rose-hulman.edu">Rose-Hulman Institute of Technology</a><img src="https://media.giphy.com/media/QEOWCJQiKib42Ni5jm/giphy.gif" width="30"></br>Rose-Bud Intern at <a href="https://www.rose-hulman.edu">Rose-Hulman Institute of Technology</a><img src="https://media.giphy.com/media/j5pY927wcV6Kiz44Na/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Nicolas Kireyev](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-kireyev/)](https://www.linkedin.com/in/nicolas-kireyev/)
+[![Linkedin: Nicolas Kireyev](https://img.shields.io/badge/-nicolas-kireyev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-kireyev/)](https://www.linkedin.com/in/nicolas-kireyev/)
 [![GitHub rhit-kireyena](https://img.shields.io/github/followers/rhit-kireyena?label=follow&style=social)](https://github.com/rhit-kireyena)
 
 
