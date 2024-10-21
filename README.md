@@ -1,6 +1,6 @@
 <h2> Hi, I'm Nicolas Kireyev! <img src="https://media.giphy.com/media/i00Ho1s3v7BVQ5qBLp/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/9RVTRS13tLFfpf37JE/giphy.gif" width="230">
-<p><em>Computer Science Major at <a href="https://www.rose-hulman.edu">Rose-Hulman Institute of Technology</a><img src="https://media.giphy.com/media/QEOWCJQiKib42Ni5jm/giphy.gif" width="30"></br>Rose-Bud Intern at <a href="https://www.rose-hulman.edu">Rose-Hulman Institute of Technology</a><img src="https://media.giphy.com/media/j5pY927wcV6Kiz44Na/giphy.gif" width="30"> 
+<p><em>Computer Science Major at <a href="https://www.rose-hulman.edu">Rose-Hulman Institute of Technology</a><img src="https://media.giphy.com/media/QEOWCJQiKib42Ni5jm/giphy.gif" width="30"></br>RoseBUD Intern at <a href="https://www.rose-hulman.edu">Rose-Hulman Institute of Technology</a><img src="https://media.giphy.com/media/j5pY927wcV6Kiz44Na/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Nicolas Kireyev](https://img.shields.io/badge/-Nicolas_Kireyev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-kireyev/)](https://www.linkedin.com/in/nicolas-kireyev/)
@@ -15,9 +15,9 @@ const nick = {
   code: [Javascript, Java, HTML, CSS, C#, Python, C++, Lua],
   tools: [React, MongoDB, Node, SQL],
   techCommunities: {
-                        intern: "Rose-Bud",
+                        intern: "RoseBUD",
                         member: "LeetCode",
-                        founder: "Helix ORG"
+                        Work Study: "Full Stack Web Developer @ Rose-Hulman Cross Country and Track and Field Team
                       },
  currently learning: "Web-Scraping"
 }
